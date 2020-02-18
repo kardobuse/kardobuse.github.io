@@ -1,0 +1,46 @@
+
+body{
+    <font face="tahoma" size="50" color="black">   
+}
+#banner{
+    color:white;
+                background-color:rgb(255, 0, 0);
+                height: 50px;
+                margin-top: 40px;
+                padding: 20px;
+                font: 15;
+                border: solid 2px black;
+
+}
+#menü{
+    margin :20px;
+    background-color: rgb(150, 140, 140);
+    padding: 20px;
+    width: 200px;
+    height: 700px;
+    float: left;
+    font:15;
+    border: solid 2px black;
+    font-size: 25;
+}
+#icerik{
+    margin :20px;
+    background-color: rgb(150, 140, 140);
+    padding: 20px;
+    width: 1800px;
+    height: 700px;
+    font-size: 50;
+    border: solid 2px black;
+}
+#menü li{
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+#menü  li a:hover{
+    color: red;
+}
+a{
+    color: white;
+}
